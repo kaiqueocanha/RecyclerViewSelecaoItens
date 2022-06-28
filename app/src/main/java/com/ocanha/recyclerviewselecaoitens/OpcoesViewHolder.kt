@@ -1,7 +1,5 @@
 package com.ocanha.recyclerviewselecaoitens
 
-import android.graphics.Color
-import android.util.Log
 import androidx.recyclerview.widget.RecyclerView
 import com.ocanha.recyclerviewselecaoitens.databinding.ResOpcaoBinding
 
